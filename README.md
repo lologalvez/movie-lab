@@ -12,6 +12,8 @@ After the search, you could see the details of all movies listed and add to favo
 
 The app is developed with [React](https://reactjs.org). The layout has been done with SASS. 
 
+Check it out here: [Movie Lab](http://movie-lab.surge.sh/)
+
 ## Functional Description
 
 ### Use Cases
